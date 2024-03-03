@@ -1,0 +1,9 @@
+x=input('Enter the colour')
+if(x=='Red'):
+     print('stop')
+elif(x=='Green'):
+    print('go')
+elif(x=='Yellow'):
+    print('slow')
+else:
+    print('Plese enter the valid colour')
